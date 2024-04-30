@@ -1,0 +1,16 @@
+streamlit
+OpenAI
+requests
+textwrap
+datetime
+os
+PdfReader
+tiktoken
+deepl
+my_yt_tran
+my_text_sum
+my_image_gen
+yt_dlp
+YouTubeTranscriptApi
+TextFormatter
+Path
